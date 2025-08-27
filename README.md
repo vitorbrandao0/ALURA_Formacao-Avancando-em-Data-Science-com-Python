@@ -31,3 +31,12 @@ Códigos de todos os cursos realizados na formação Avançando em Data Science 
   - Trabalhe com DataFrames para apresentar as informações
   - Utilize de propriedades CSS para aplicar estilizações às tabelas
   - Construa tabelas para várias situações
+
+# 5) Python: Análise de Dados com Python
+  - Trabalhe com tabelas no SGBD SQLite
+  - Execute consultas SQL com SQLalchemy em um ambiente Python
+  - Crie DataFrames Pandas a partir de tabelas SQL
+  - Execute análises gráficas no ambiente Python
+  - Relacione tabelas para obter melhores resultados em uma análise
+  - Identifique nos dados informações relevantes para processos em empresas
+  - Auxilie em tomadas de decisão de uma empresa a partir do estudo de seus dados
